@@ -1,0 +1,5 @@
+couch,$100
+table,$50
+lamp,$40
+rug,$75
+fridge,$500
